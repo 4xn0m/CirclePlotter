@@ -1,0 +1,15 @@
+/Users/James/Documents/spoon/CirclePlotter/bin/Debug/net6.0/CirclePlotter
+/Users/James/Documents/spoon/CirclePlotter/bin/Debug/net6.0/CirclePlotter.deps.json
+/Users/James/Documents/spoon/CirclePlotter/bin/Debug/net6.0/CirclePlotter.runtimeconfig.json
+/Users/James/Documents/spoon/CirclePlotter/bin/Debug/net6.0/CirclePlotter.dll
+/Users/James/Documents/spoon/CirclePlotter/bin/Debug/net6.0/CirclePlotter.pdb
+/Users/James/Documents/spoon/CirclePlotter/obj/Debug/net6.0/CirclePlotter.csproj.AssemblyReference.cache
+/Users/James/Documents/spoon/CirclePlotter/obj/Debug/net6.0/CirclePlotter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/James/Documents/spoon/CirclePlotter/obj/Debug/net6.0/CirclePlotter.AssemblyInfoInputs.cache
+/Users/James/Documents/spoon/CirclePlotter/obj/Debug/net6.0/CirclePlotter.AssemblyInfo.cs
+/Users/James/Documents/spoon/CirclePlotter/obj/Debug/net6.0/CirclePlotter.csproj.CoreCompileInputs.cache
+/Users/James/Documents/spoon/CirclePlotter/obj/Debug/net6.0/CirclePlotter.dll
+/Users/James/Documents/spoon/CirclePlotter/obj/Debug/net6.0/refint/CirclePlotter.dll
+/Users/James/Documents/spoon/CirclePlotter/obj/Debug/net6.0/CirclePlotter.pdb
+/Users/James/Documents/spoon/CirclePlotter/obj/Debug/net6.0/CirclePlotter.genruntimeconfig.cache
+/Users/James/Documents/spoon/CirclePlotter/obj/Debug/net6.0/ref/CirclePlotter.dll

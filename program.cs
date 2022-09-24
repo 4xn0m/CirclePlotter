@@ -1,11 +1,10 @@
-// Hello World! program
-using System;
-namespace program
+﻿namespace HelloWorld
 {
-    class Hello {         
+    class Program
+    {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Helldddddo World!");
+            Console.WriteLine("spoon!");
         }
     }
 }
